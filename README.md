@@ -3,4 +3,4 @@
 <h3>🤖Vanilla javascript Mr-robot quote generator made with HTML, CSS & Vanilla JS</h3>   
   <h3>deployed with netlify</h3> 
  
-https://mrrobot-quote-generator.netlify.app 
+<a href="https://mrrobot-quote-generator.netlify.app" target="_blank">Website</a> 
