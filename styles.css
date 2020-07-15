@@ -10,14 +10,13 @@ body {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
-img { 
-  display: flex ; 
+img {
+  display: flex;
   flex-direction: column;
   background-size: cover;
-  background-repeat: no-repeat; 
-  width: 70vh;  
-  margin: 0 auto ; 
-  
+  background-repeat: no-repeat;
+  width: 70vh;
+  margin: 0 auto;
 }
 
 #container {
