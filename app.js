@@ -1,6 +1,6 @@
-let btn = document.getElementById("btn");
-let output = document.getElementById("output");
-let quote = [
+const btn = document.getElementById("btn");
+const output = document.getElementById("output");
+const quote = [
   "The 1% Of The 1% - Elliot",
   "Relationships Are About Control - Elliot",
   "How do I take off a mask when it stops being a mask, when it's as much a part of me as I am ?- Elliot",
@@ -19,6 +19,6 @@ let quote = [
 ];
 
 btn.addEventListener("click", function () {
-  let randomQuote = quote[Math.floor(Math.random() * quote.length)];
+  const randomQuote = quote[Math.floor(Math.random() * quote.length)];
   output.innerHTML = randomQuote;
 });
